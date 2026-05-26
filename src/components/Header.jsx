@@ -40,8 +40,6 @@ function Header({ user }) {
                         </>
                     }
                 </span>
-
-
             </nav>
         </header>
     );
